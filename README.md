@@ -1,5 +1,6 @@
 # Stoke-Prediction-Analysis
 A prediction model developed using R programming
+
 File : Stoke prediction analysis R.R
 
 # Objective
