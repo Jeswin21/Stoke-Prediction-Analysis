@@ -1,5 +1,6 @@
 # Stoke-Prediction-Analysis
 A prediction model developed using R programming
+File : Stoke prediction analysis R.R
 
 # Objective
 The primary goal of this project is to develop a prediction model that can accurately determine whether a patient is likely to suffer a stroke based on various input parameters. 
